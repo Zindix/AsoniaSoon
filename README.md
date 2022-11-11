@@ -8,12 +8,12 @@ Logiciel fais en [Python](https://www.python.org/) pour plus de questions contac
 ## 🏰 Histoire
 Voici son histoire
    
-- Soon
+- A vrai dire rien de particulier sur se projet python donnez moi des idée ;)
   
 ## 📥 Installation 
 
 ```bash
-git clone Soon
+git clone https://github.com/Zindix/AsoniaSoon.git
 ```
  
   
@@ -23,7 +23,6 @@ Pour utiliser le logiciel voici ses etapes
 
 ```
 1. Lancer le .py
-2. Soon
 ```
 
 - ⚠️ Attentions le ce logiciel est fais avec pystyle et basé sur [Hyperion](https://github.com/billythegoat356/Hyperion) "meme bannier" ⚠️
@@ -33,7 +32,7 @@ Pour utiliser le logiciel voici ses etapes
    
    Bientôt :
    
-- Soon
+- ???
    
   
 ## 👥 Autheur
